@@ -10,7 +10,7 @@ import run.halo.app.repository.base.BaseRepositoryImpl;
 
 /**
  * Halo main class.
- *
+ * test git
  * @author ryanwang
  * @date 2020-08-31
  */
