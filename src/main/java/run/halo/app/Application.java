@@ -12,7 +12,7 @@ import run.halo.app.repository.base.BaseRepositoryImpl;
  * Halo main class.
  *
  * @author ryanwang
- * @date 2017-11-14
+ * @date 2020-08-31
  */
 @SpringBootApplication
 @EnableAsync
